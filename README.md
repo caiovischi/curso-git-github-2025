@@ -10,3 +10,5 @@ Visual Studio Code.
 
 Confira tudo o que temos no nosso Youtube.
 É Grátis!
+
+[Curso Git 2025](https://youtube.com/@teomewhy)
